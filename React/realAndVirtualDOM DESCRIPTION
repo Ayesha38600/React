@@ -1,0 +1,5 @@
+THIS IS THE DESCRIPTION OF realAndVirtualDOM.PNG 
+
+real dom mae agr apko img ko update krna h  to apko window me html me body me div me elem2 mai jana hoga and wo poora DOM tree ko update krna hoga ..
+
+jab k virtual dom me ye hota h k wo DOM tree ki copies bna  leta h and us copy sy compare krta h k dono equal h ya nhi and srf us part ko update krta h jo equal na ho. and yad rahy react virtual dom py work krty h isliye hi to bar bar refresh ni hota 

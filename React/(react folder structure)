@@ -1,0 +1,32 @@
+pacage.json --->tells folder structure
+
+node_modules--> provide a way to re-use code in your Node application. 
+
+tailwind waly folder sy css likhny ki need ni hogy.
+
+
+aap.....folder me page.js h na wohi localhost:3000 py ara. //most important folder..is folder me sy sab del krdena 
+phir
+
+Simple React Snippets...install this extension ... it give u suggestions.
+
+phir rafce..ye command dalna page.js me ..rafce ka matlab h react arrow fn component.
+
+
+
+
+yad rahy ..global.css sy sab hata dena siwaye upr ki 3 lines k @ wali k.
+
+
+import....apni file k andr kisi aur file ko jorna...bht sy features import krny k liye use hota h.
+
+
+export....jo kam us file me kro usy kahi aur use krsko
+
+
+
+
+layout.js is the father of page.js
+
+
+breaking the components sy upr k topic na krna
